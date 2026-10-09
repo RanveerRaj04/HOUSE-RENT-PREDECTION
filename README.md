@@ -119,7 +119,7 @@ Python · NumPy · Pandas · Matplotlib · Seaborn · scikit-learn (validation o
 
 ## ▶️ How to run
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/rajbhushan315-oss/HOUSE-RENT-PREDECTION>
 cd house-rent-prediction
 pip install -r requirements.txt
 jupyter notebook notebooks/
