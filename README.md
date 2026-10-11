@@ -118,13 +118,29 @@ Evidence says **not badly**:
 Python · NumPy · Pandas · Matplotlib · Seaborn · scikit-learn (validation only) · Jupyter
 
 ## ▶️ How to run
+
+Prerequisites
+
+* Python 3.9 or later
+* Git
+
+1. Clone the Repository
 ```bash
-git clone <https://github.com/rajbhushan315-oss/HOUSE-RENT-PREDECTION>
-cd house-rent-prediction
+git clone https://github.com/rajbhushan315-oss/HOUSE-RENT-PREDECTION.git
+```
+3. Navigate to the Project Directory
+```bash
+cd HOUSE-RENT-PREDECTION
+```
+4. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+5. Launch Jupyter Notebook
+```bash
 jupyter notebook notebooks/
 ```
-Run notebooks in order 01 → 05.
+The Jupyter Notebook interface will open in your browser, allowing you to explore the notebooks and run the code.
 
 ## 📚 What I learned
 * Correlation vs. R²: A correlation of 0.74 translates to an R² of approximately 0.55 in simple linear regression.
